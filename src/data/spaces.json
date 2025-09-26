@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "name": "The Playground PH",
+    "location": "Lipa City",
+    "price": 300,
+    "main_image": "/assets/images/space-1.png",
+    "images": ["/assets/images/space1_a.png", "/assets/images/space1_b.png"],
+    "description": "A quiet and cozy space perfect for deep focus sessions. Equipped with soundproof pods and an extensive library for a productive day.",
+    "amenities": [
+      "High-speed Wi-Fi",
+      "Free Coffee & Tea",
+      "Power Outlets at every seat",
+      "Air-conditioned"
+    ],
+    "hours": "9:00 AM - 9:00 PM",
+    "time_slots": [
+      { "label": "9am - 1pm", "start": "09:00", "end": "13:00" },
+      { "label": "1pm - 5pm", "start": "13:00", "end": "17:00" },
+      { "label": "5pm - 9pm", "start": "17:00", "end": "21:00" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "WorkHaven Makati",
+    "location": "Makati City",
+    "price": 500,
+    "main_image": "/assets/images/space-2.jpg",
+    "images": ["/assets/images/space2_a.png", "/assets/images/space2_b.png"],
+    "description": "A professional co-working environment in the heart of the business district. Ideal for meetings, collaborations, and networking.",
+    "amenities": [
+      "Fiber Internet",
+      "Meeting Rooms",
+      "Gourmet Pantry",
+      "24/7 Access",
+      "Ergonomic Chairs"
+    ],
+    "hours": "Open 24/7",
+    "time_slots": [
+      { "label": "Full Day Pass", "start": "00:00", "end": "23:59" },
+      { "label": "Night Owl Pass (9pm-6am)", "start": "21:00", "end": "06:00" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cebu Creative Hub",
+    "location": "Cebu City",
+    "price": 250,
+    "main_image": "/assets/images/space3_b.png",
+    "images": ["/assets/images/space3_a.png", "/assets/images/space3_b.png"],
+    "description": "A vibrant and artistic space designed to foster creativity and collaboration among Cebu's digital nomads and artists.",
+    "amenities": [
+      "Community Events",
+      "Art Supplies",
+      "Fast Wi-Fi",
+      "Pet-friendly",
+      "Outdoor Garden"
+    ],
+    "hours": "10:00 AM - 7:00 PM",
+    "time_slots": [
+      { "label": "Morning Session (10am-2pm)", "start": "10:00", "end": "14:00" },
+      { "label": "Afternoon Session (2pm-6pm)", "start": "14:00", "end": "18:00" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Loft BGC",
+    "location": "Taguig City",
+    "price": 550,
+    "main_image": "/assets/images/space-4.png",
+    "images": ["/assets/images/space4_a.png", "/assets/images/space4_b.png"],
+    "description": "Modern study lounge in the heart of BGC with panoramic city views. Perfect for professionals and students alike.",
+    "amenities": [
+      "Floor-to-ceiling windows",
+      "Premium Coffee",
+      "Silent Zones",
+      "Phone Booths",
+      "Fast Charging Stations"
+    ],
+    "hours": "8:00 AM - 10:00 PM",
+    "time_slots": [
+      { "label": "8am - 12pm", "start": "08:00", "end": "12:00" },
+      { "label": "12pm - 4pm", "start": "12:00", "end": "16:00" },
+      { "label": "4pm - 8pm", "start": "16:00", "end": "20:00" },
+      { "label": "8pm - 10pm", "start": "20:00", "end": "22:00" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hi Five Coworking Space",
+    "location": "Iloilo City",
+    "price": 200,
+    "main_image": "/assets/images/space-5.jpg",
+    "images": ["/assets/images/space5_a.png", "/assets/images/space5_b.jpg"],
+    "description": "Affordable co-working space with a laid-back atmosphere. Great for remote workers and freelancers on a budget.",
+    "amenities": [
+      "Unlimited Coffee",
+      "Reliable Internet",
+      "Rooftop Terrace",
+      "Community Kitchen",
+      "Bike Parking"
+    ],
+    "hours": "7:00 AM - 11:00 PM",
+    "time_slots": [
+      { "label": "Early Bird (7am-11am)", "start": "07:00", "end": "11:00" },
+      { "label": "Day Pass (11am-7pm)", "start": "11:00", "end": "19:00" },
+      { "label": "Night Shift (7pm-11pm)", "start": "19:00", "end": "23:00" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "EPro Coworking Space and Study Hub",
+    "location": "Baguio City",
+    "price": 180,
+    "main_image": "/assets/images/space-6.png",
+    "images": ["/assets/images/space6_a.png", "/assets/images/space6_b.png"],
+    "description": "Cozy mountain retreat perfect for focused study sessions. Enjoy the cool weather and peaceful environment.",
+    "amenities": [
+      "Mountain View",
+      "Fireplace Lounge",
+      "Hot Chocolate Bar",
+      "Library Corner",
+      "Blanket Service"
+    ],
+    "hours": "6:00 AM - 8:00 PM",
+    "time_slots": [
+      { "label": "Dawn Session (6am-10am)", "start": "06:00", "end": "10:00" },
+      { "label": "Morning Focus (10am-2pm)", "start": "10:00", "end": "14:00" },
+      { "label": "Afternoon Study (2pm-6pm)", "start": "14:00", "end": "18:00" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "All-Nighter Coworking and Study Hub",
+    "location": "Davao City",
+    "price": 350,
+    "main_image": "/assets/images/space-7.jpg",
+    "images": ["/assets/images/space7_a.jpg", "/assets/images/space7_b.jpg"],
+    "description": "State-of-the-art technology hub equipped with the latest gadgets and high-speed internet for tech professionals.",
+    "amenities": [
+      "Gigabit Internet",
+      "Mac & PC Stations",
+      "3D Printers",
+      "VR Room",
+      "Tech Workshops"
+    ],
+    "hours": "24 Hours",
+    "time_slots": [
+      { "label": "Morning Coding (10am-2pm)", "start": "10:00", "end": "14:00" },
+      { "label": "Afternoon Dev (2pm-6pm)", "start": "14:00", "end": "18:00" },
+      { "label": "Evening Hack (6pm-10pm)", "start": "18:00", "end": "22:00" },
+      { "label": "All-nighter (10pm-6am)", "start": "22:00", "end": "06:00" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "HomeRoom Co-Working and Study Lounge",
+    "location": "Manila Bay",
+    "price": 400,
+    "main_image": "/assets/images/space-8.jpg",
+    "images": ["/assets/images/space8_a.jpg", "/assets/images/space8_b.jpg"],
+    "description": "Waterfront study space with stunning bay views. Watch the sunset while you work on your projects.",
+    "amenities": [
+      "Bay View",
+      "Sunset Deck",
+      "Cafe Menu",
+      "Meditation Corner",
+      "Instagram-worthy Spots"
+    ],
+    "hours": "10:00 AM - 12:00 AM",
+    "time_slots": [
+      { "label": "Brunch Study (10am-2pm)", "start": "10:00", "end": "14:00" },
+      { "label": "Afternoon Grind (2pm-6pm)", "start": "14:00", "end": "18:00" },
+      { "label": "Sunset Session (6pm-10pm)", "start": "18:00", "end": "22:00" },
+      { "label": "Night Owl (10pm-12am)", "start": "22:00", "end": "00:00" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Super Metro Antipolo",
+    "location": "Antipolo",
+    "price": 220,
+    "main_image": "/assets/images/space-9.jpg",
+    "images": ["/assets/images/space9_a.jpg", "/assets/images/space9_b.jpg"],
+    "description": "Escape the city hustle in this serene hillside workspace. Fresh air and nature views to boost your productivity.",
+    "amenities": [
+      "Nature Views",
+      "Fresh Air",
+      "Garden Tables",
+      "Organic Snacks",
+      "Yoga Corner"
+    ],
+    "hours": "6:00 AM - 10:00 PM",
+    "time_slots": [
+      { "label": "Sunrise Session (6am-10am)", "start": "06:00", "end": "10:00" },
+      { "label": "Mid-day Focus (10am-3pm)", "start": "10:00", "end": "15:00" },
+      { "label": "Golden Hour (3pm-7pm)", "start": "15:00", "end": "19:00" },
+      { "label": "Evening Wind Down (7pm-10pm)", "start": "19:00", "end": "22:00" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Comfort Zone Lipa",
+    "location": "Lipa City",
+    "price": 480,
+    "main_image": "/assets/images/space-10.jpg",
+    "images": ["/assets/images/space10_a.jpg", "/assets/images/space10_b.png"],
+    "description": "Premium business center in Ortigas with executive amenities. Perfect for important meetings and professional work.",
+    "amenities": [
+      "Executive Lounges",
+      "Conference Rooms",
+      "Secretary Services",
+      "Premium Dining",
+      "Valet Parking"
+    ],
+    "hours": "9:00 AM - 9:00 PM",
+    "time_slots": [
+      { "label": "Early Executive (9am-12pm)", "start": "09:00", "end": "12:00" },
+      { "label": "Business Hours (12pm-4pm)", "start": "12:00", "end": "16:00" },
+      { "label": "After Hours (4pm-9pm)", "start": "16:00", "end": "21:00" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Think Space Co-working And Study Lounge",
+    "location": "Puerto Princesa, Palawan",
+    "price": 280,
+    "main_image": "/assets/images/space-11.jpg",
+    "images": ["/assets/images/space11_a.jpg", "/assets/images/space11_b.jpg"],
+    "description": "Tropical paradise workspace where you can work with your toes in the sand. Perfect for digital nomads seeking a unique remote work experience.",
+    "amenities": [
+      "Beachfront Location",
+      "Hammock Workstations",
+      "Fresh Coconut Bar",
+      "Underwater Wi-Fi",
+      "Island Hopping Breaks"
+    ],
+    "hours": "7:00 AM - 9:00 PM",
+    "time_slots": [
+      { "label": "Sunrise Beach (7am-11am)", "start": "07:00", "end": "11:00" },
+      { "label": "Midday Shade (11am-3pm)", "start": "11:00", "end": "15:00" },
+      { "label": "Sunset Productivity (3pm-7pm)", "start": "15:00", "end": "19:00" },
+      { "label": "Moonlight Session (7pm-9pm)", "start": "19:00", "end": "21:00" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "TU-ON Co Working Space",
+    "location": "Surigao City",
+    "price": 190,
+    "main_image": "/assets/images/space-12.jpg",
+    "images": ["/assets/images/space12_a.jpg", "/assets/images/space12_b.jpg"],
+    "description": "TU-ON Co Working Space is a productive, collaborative, and inspiring environment to work and study.",
+    "amenities": [
+      "Historic Architecture",
+      "Heritage Tours",
+      "Traditional Longganisa Breakfast",
+      "Cobblestone Courtyard",
+      "Cultural Library"
+    ],
+    "hours": "8:00 AM - 8:00 PM",
+    "time_slots": [
+      { "label": "Heritage Morning (8am-12pm)", "start": "08:00", "end": "12:00" },
+      { "label": "Siesta Study (12pm-4pm)", "start": "12:00", "end": "16:00" },
+      { "label": "Colonial Evening (4pm-8pm)", "start": "16:00", "end": "20:00" }
+    ]
+  }
+]
